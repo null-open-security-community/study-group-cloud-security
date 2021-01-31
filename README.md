@@ -1,4 +1,4 @@
-# Malware Analysis Study Group
+# Cloud Security Study Group
 This is the repository for the study notes for the topic of CLoud Security.
 
 ## Usage
