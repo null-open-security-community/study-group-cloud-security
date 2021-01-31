@@ -1,5 +1,5 @@
 # Cloud Security Study Group
-This is the repository for the study notes for the topic of CLoud Security.
+This is the repository for the study notes for the topic of Cloud Security.
 
 ## Usage
 Create a branch, then create a new directory with your name and all your notes/study materials will be residing in there.<br>
