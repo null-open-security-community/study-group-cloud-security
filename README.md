@@ -1,19 +1,24 @@
-# Cloud Security Study Group
-This is the repository for the study notes for the topic of Cloud Security.
+# Python SWAGGER FLASK-RESTPLUS REST API's
+Python REST API Documentation For CRUD operations through SQLite and Swagger.
 
-## Usage
-Create a branch, then create a new directory with your name and all your notes/study materials will be residing in there.<br>
-Eg:
-```shell
-study-group-cloud-security/
-├── KumarAshwin
-│   ├── notes.md
-│   └── reference_materials
-└── README.md
-```
+### Note : Install Python and VScode
+```pip3 install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy flask-restplus```
 
-The contributors will be working and pushing directly to their own branch (keep branch name same as your name), and at the end we will merge all into the main branch.
+### Export 
+```export FLASK_APP=app.py```
+```export FLASK_DEBUG=True```
 
-## Contributors
-- Add your name with github profile linked to the name
+### Create DB 
+```python```
+```from app import db```
+``` db.create_all() ``` 
+``` exit() ``` 
+
+### Start Server
+```flask run```
+
+http://localhost:5000
+
+### Demo
+
 
