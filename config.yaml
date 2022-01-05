@@ -1,7 +1,7 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/theme/hugo-book/
 
-baseURL: https://example.com/
-title: Hugo Book
+baseURL: /
+title: null Cloud Security Study Group
 theme: hugo-book
 
 # Book configuration
@@ -25,14 +25,6 @@ languages:
     languageName: English
     contentDir: content
     weight: 1
-  ru:
-    languageName: Russian
-    contentDir: content.ru
-    weight: 2
-  zh:
-    languageName: Chinese
-    contentDir: content.zh
-    weight: 3
 
 menu:
   # before: []
@@ -40,9 +32,7 @@ menu:
     - name: "Github"
       url: "https://github.com/alex-shpak/hugo-book"
       weight: 10
-    - name: "Hugo Themes"
-      url: "https://themes.gohugo.io/hugo-book/"
-      weight: 20
+      
 
 params:
   # (Optional, default light) Sets color theme: light, dark or auto.
