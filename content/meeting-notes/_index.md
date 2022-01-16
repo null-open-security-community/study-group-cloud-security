@@ -31,6 +31,20 @@ Mentors - Siddharth Tanna & Setu Parimi
 ## 16th January, 2022
 
 **Attendees**
+1. Aman Manapure
+2. Siddharth Balyan
+3. Apurv Tiwari
+4. Swar Shah
+5. Kavisha Seth
 
+Mentors - Siddharth Tanna & Setu Parimi
 
 **Details**
+1. Siddharth Balyan has given a session on Container Runtime (containerd). 
+2. We will start with Container Orchestration (kubernetes).
+   1. Need for container orchestration and the problem that it solves.
+   2. Learn about Master and Worker Node components and use Minikube to setup your cluster.
+3. We will start on the first project - Setup an EFK stack along with Container Runtime security with Sysdig Falco.
+4. Adhoc - Aman, Apurv, Kavisha and Swar are researching on Firecracker, WASMEdgeRuntime, etc. and will come up with the documentation by next session. 
+
+---

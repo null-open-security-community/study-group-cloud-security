@@ -20,3 +20,7 @@ type: docs
 ## Week 1
 * [CNCF Landscape](https://landscape.cncf.io/guide) 
   * Container Runtime
+
+## Week 2
+* [Container Orchestration](https://landscape.cncf.io/guide#orchestration-management--scheduling-orchestration)
+  * [Sysdig Falco](https://learn.sysdig.com/falco-101)
