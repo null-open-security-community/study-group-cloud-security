@@ -46,5 +46,6 @@ Mentors - Siddharth Tanna & Setu Parimi
    2. Learn about Master and Worker Node components and use Minikube to setup your cluster.
 3. We will start on the first project - Setup an EFK stack along with Container Runtime security with Sysdig Falco.
 4. Adhoc - Aman, Apurv, Kavisha and Swar are researching on Firecracker, WASMEdgeRuntime, etc. and will come up with the documentation by next session. 
+5. Ashwin will give a presentation on basics of k8s.
 
 ---
