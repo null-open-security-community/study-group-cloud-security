@@ -27,3 +27,10 @@ Mentors - Siddharth Tanna & Setu Parimi
 3. Setu presented a very interesting topic on FPE (Format Preserving Encryption), with technical demo and how vaults utilize it so that the sensitive data can be utilized for analytics purposes without giving away the secrets.
   
 ---
+
+## 16th January, 2022
+
+**Attendees**
+
+
+**Details**

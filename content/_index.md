@@ -1,6 +1,7 @@
 ---
 title: Introduction
-type: docs
+type: 
+bookToc: false
 ---
 
 # null <b>Cloud Security Study Group</b>    
@@ -15,3 +16,8 @@ We will also be presenting whatever is the outcome through out the study group i
 * Setu Parimi
 * Siddharth Tanna
 
+## How To Use This Site?
+* The side navigation contains week wise content and the meeting notes contains what ever has been done during the week.
+* The Showcase section presents whatever output or content that has been generated from the participants of study group.
+* Study Path is something where detailed plan of study is mentioned with some links for reference.
+* Meeting Notes will contain detailed description on whatever has been done during the week and if any extra links that are being shared during the sessions.
