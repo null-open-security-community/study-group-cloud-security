@@ -18,6 +18,7 @@ type: docs
 3. Siddharth Balayan
 4. Kavisha Seth
 5. Febin Jose
+6. Kumar Ashwin
 
 Mentors - Siddharth Tanna & Setu Parimi
 
@@ -36,6 +37,7 @@ Mentors - Siddharth Tanna & Setu Parimi
 3. Apurv Tiwari
 4. Swar Shah
 5. Kavisha Seth
+6. Kumar Ashwin
 
 Mentors - Siddharth Tanna & Setu Parimi
 
