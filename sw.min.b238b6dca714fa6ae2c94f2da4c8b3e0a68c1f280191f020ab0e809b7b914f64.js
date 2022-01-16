@@ -1,0 +1,1 @@
+navigator.serviceWorker&&navigator.serviceWorker.register("/study-group-cloud-security/sw.js",{scope:"/study-group-cloud-security/"})
