@@ -1,5 +1,5 @@
 ---
 weight: 1
 bookFlatSection: true
-title: "Resources"
+title: "Week 1"
 ---

@@ -10,15 +10,13 @@ type: docs
 
 # **Study Path**
 
-## Week 1
+## Prerequisite
 * Get Started with Git
 * Getting Started with Docker
 * Docker Security
 * AWS Security Fundamentals
-
-## Week 2
 * Learn AWS (Hands-On)
 * Getting Started with Python
-
-## Week 3
-* Getting Started with Terraform
+## Week 1
+* [CNCF Landscape](https://landscape.cncf.io/guide) 
+  * Container Runtime
