@@ -20,6 +20,7 @@ Participants have started their research on different runtime technologies and p
 
 **Links Shared**
 * https://www.tutorialworks.com/difference-docker-containerd-runc-crio-oci
+* https://thenewstack.io/the-cloud-native-landscape-the-runtime-layer-explained/
   
   
 Thanks!
